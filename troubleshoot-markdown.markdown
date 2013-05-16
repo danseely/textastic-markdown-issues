@@ -27,3 +27,9 @@ newlines
 ```ruby
 here is a block of fenced code with a 'ruby' lang def after the opening fence
 ```
+
+---
+
+## Image of this file rendered in Textastic for iOS:
+
+<img src="https://dl.dropboxusercontent.com/u/488478/IMG_0096.PNG" width="80% />
